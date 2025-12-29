@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>Claude Desktop</string>
+    <key>CFBundleDisplayName</key>
+    <string>Claude Desktop</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.yourname.ClaudeDesktop</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleExecutable</key>
+    <string>ClaudeDesktop</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSScreenCaptureUsageDescription</key>
+    <string>Claude Desktop trenger tilgang til skjermen for a ta skjermbilder og vise dem til Claude AI.</string>
+    <key>NSAppleEventsUsageDescription</key>
+    <string>Claude Desktop trenger tilgang til Accessibility for a kontrollere mus og tastatur.</string>
+</dict>
+</plist>
