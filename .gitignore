@@ -4,3 +4,8 @@
 *.xcworkspace/xcuserdata/
 DerivedData/
 *.swp
+
+# Shell config
+.zshrc
+.bashrc
+.bash_profile
